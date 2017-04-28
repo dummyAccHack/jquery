@@ -47,7 +47,7 @@ while ( true ) {
 		break;
 	}
 }
-// Travis CI test: Variable x is now used:
+
 Math.floor( x );
 
 return jQuery;
